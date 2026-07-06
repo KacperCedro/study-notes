@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 1. Jupyter trash 
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# 2. Linux nonessentials
+__pycache__/
+*.pyc
+venv/
+.env
+
+# 3. Jupyter logs
+*.log

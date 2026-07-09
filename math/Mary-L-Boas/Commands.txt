@@ -1,0 +1,6 @@
+# Some commands I store here in case i forget them:
+
+# 1. Exporting Jupyter notebook into pdf file:
+
+jupyter nbconvert --to pdf [path]
+
